@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBaseTutorial1", "PluginBaseTutorial1\PluginBaseTutorial1.csproj", "{3BFFADFB-1DC6-4F9F-AD0A-E0D2C6F68F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerStorageSimpleFile", "LoggerStorageSimpleFile\LoggerStorageSimpleFile.csproj", "{34E9F32A-4E29-4CAE-B8A5-3BBA1F420A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFFADFB-1DC6-4F9F-AD0A-E0D2C6F68F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFFADFB-1DC6-4F9F-AD0A-E0D2C6F68F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFFADFB-1DC6-4F9F-AD0A-E0D2C6F68F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFFADFB-1DC6-4F9F-AD0A-E0D2C6F68F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E9F32A-4E29-4CAE-B8A5-3BBA1F420A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E9F32A-4E29-4CAE-B8A5-3BBA1F420A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E9F32A-4E29-4CAE-B8A5-3BBA1F420A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E9F32A-4E29-4CAE-B8A5-3BBA1F420A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345BA1C2-F9B9-4D03-9AB0-573A9BFDF043}
+	EndGlobalSection
+EndGlobal

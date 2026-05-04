@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerStorageSimpleFile", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicBlockTutorial1", "LogicBlock1\LogicBlockTutorial1.csproj", "{3EC64C13-8949-4DAA-B21F-7D25054E0C69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicBlockPortTutorial10", "LogicBlockPortTutorial10\LogicBlockPortTutorial10.csproj", "{C7F09797-719A-4AC8-9217-032CBF0564AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3EC64C13-8949-4DAA-B21F-7D25054E0C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EC64C13-8949-4DAA-B21F-7D25054E0C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EC64C13-8949-4DAA-B21F-7D25054E0C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F09797-719A-4AC8-9217-032CBF0564AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F09797-719A-4AC8-9217-032CBF0564AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F09797-719A-4AC8-9217-032CBF0564AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F09797-719A-4AC8-9217-032CBF0564AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
